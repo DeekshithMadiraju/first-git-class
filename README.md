@@ -1,2 +1,1 @@
-# first-git-class
-first git class of edureka 
+this is for learning git class and practicing git class from edureka !!
